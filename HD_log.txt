@@ -1,0 +1,9 @@
+14:04:45.309 DEBUG | =============== MactoTV Log =============== [dlgControl.cpp:2537]
+14:04:45.309 DEBUG | Product name:HD [dlgControl.cpp:2538]
+14:04:45.309 DEBUG | Product version:1.0.5.6 [dlgControl.cpp:2539]
+14:05:23.696 DEBUG | InstallGoDetectResolutionTimer [dlgSearchControl.cpp:1230]
+14:33:22.452 DEBUG | kIOMessageSystemWillSleep [main.cpp:730]
+14:36:17.865 DEBUG | kIOMessageSystemWillPowerOn [main.cpp:741]
+14:36:19.260 DEBUG | kIOMessageSystemHasPoweredOn [main.cpp:746]
+
+v v hjugug
